@@ -1,0 +1,92 @@
+# Privacy Policy
+
+**Last Updated:** [أدخل التاريخ]
+
+This Privacy Policy describes how [Super DEV] ("the Bot") collects, uses, and shares information when you use our service.
+
+## 1. Information We Collect
+
+### Automatically Collected Information:
+- **Server ID**: To identify which Discord server is using the Bot
+- **User ID**: To process commands and manage permissions
+- **Command Usage**: Basic data about which commands are used and when
+- **Voice Channel ID**: To connect and stream audio in voice channels
+
+### We DO NOT Collect:
+- Message content
+- Personal information beyond what Discord provides
+- Payment information
+- Location data
+
+## 2. How We Use Information
+
+The collected information is used solely for:
+- Operating and maintaining the Bot's functionality
+- Providing radio streaming services in voice channels
+- Improving Bot performance and user experience
+- Preventing abuse and ensuring compliance with Discord's Terms
+- Debugging and technical support
+
+## 3. Data Storage and Security
+
+- All data is stored securely using Discord's API
+- We implement industry-standard security measures
+- Data is retained only as long as necessary for Bot operation
+- We do not sell, trade, or rent user data to third parties
+
+## 4. Third-Party Services
+
+The Bot uses:
+- **Discord API**: Subject to Discord's Privacy Policy
+- **Hosting Services**: [Railway]
+- **Radio Streams**: Publicly available radio links (subject to their respective policies)
+
+## 5. Cookies and Tracking
+
+The Bot does not use cookies or tracking technologies beyond Discord's standard API functionality.
+
+## 6. Your Rights
+
+You have the right to:
+- Remove the Bot from your server at any time
+- Request deletion of your data by contacting us
+- Opt-out of non-essential data collection
+
+## 7. Data Retention
+
+- Command logs: Retained for [30 days / 90 days] for debugging purposes
+- Server/User IDs: Retained while the Bot is active in your server
+- Usage statistics: Anonymized and retained for service improvement
+
+## 8. Children's Privacy
+
+The Bot is not intended for users under 13 years old. We do not knowingly collect data from children under 13. If you believe a child has provided us with personal information, contact us immediately.
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify users of significant changes by:
+- Updating the "Last Updated" date
+- Posting an announcement in our support server (if applicable)
+- Continued use of the Bot constitutes acceptance of the updated policy
+
+## 10. Contact Us
+
+If you have questions about this Privacy Policy or wish to request data deletion, contact us at:
+
+- **Support Server:** [https://discord.gg/udcDqmenG]
+
+
+## 11. Legal Basis for Processing (GDPR)
+
+For users in the European Economic Area (EEA), our legal basis for collecting and using information is:
+- Performance of a contract (providing Bot services)
+- Legitimate interests (improving service, preventing abuse)
+- Consent (where applicable)
+
+## 12. International Data Transfers
+
+Data may be transferred to and processed in countries other than your own. We ensure appropriate safeguards are in place to protect your information in accordance with this policy.
+
+---
+
+**By using the Bot, you acknowledge that you have read and understood this Privacy Policy.**
